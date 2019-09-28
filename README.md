@@ -1,2 +1,3 @@
 # Rest-Api
-Website. Using REST-API
+Building Website using Rest-Api, Express and MongoDB
+Requiring Express to build the whole thing 
